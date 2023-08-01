@@ -8,7 +8,7 @@ To see this example in action, [install Rust] and use `cargo run` in this direct
 cargo run
 ```
 
-# Tutorial
+## Tutorial
 
 ## How to Recreate _Factors_
 

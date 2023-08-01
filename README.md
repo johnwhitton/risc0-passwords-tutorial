@@ -31,7 +31,7 @@ Following are the steps to create this repository
 
 ## Building the Project
 
-To build the project you can either follow the instructions in [FACTORS.md](./FACTORS.md) or follow the vide from [ZK Hack III - 5 Checking Passwords (RISC Zero Live Coding Example)](https://youtu.be/Yg_BGqj_6lg?list=PLcPzhUaCxlCgig7ofeARMPwQ8vbuD6hC5).
+To build the project you can either follow the instructions in [FACTORS.md](./FACTORS.md) or follow the video from [ZK Hack III - 5 Checking Passwords (RISC Zero Live Coding Example)](https://youtu.be/Yg_BGqj_6lg?list=PLcPzhUaCxlCgig7ofeARMPwQ8vbuD6hC5).
 
 In this repository
 
