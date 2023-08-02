@@ -1,9 +1,0 @@
-[package]
-name = "factors"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-factors_methods = { path = "../methods" }
-risc0-zkvm = { version = "0.16.1" }
-serde = "1.0"
